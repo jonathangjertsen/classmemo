@@ -1,7 +1,6 @@
-from frozendict import frozendict
 import pytest
-
-from . import Memoizer
+from frozendict import frozendict
+from classmemo import Memoizer
 
 
 @pytest.fixture
