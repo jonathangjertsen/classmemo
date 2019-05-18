@@ -31,9 +31,8 @@ used to process the data.
 
 ## Installation
 
-I will try to make it available as a package.
+`pip install classmemo`
 
-For now, a local copy can be installed by cloning the repo and running `pip install -r requirements.txt`.
 The only dependencies are Python 3.6 and the frozendict package.
 
 ## Contributing
