@@ -1,4 +1,6 @@
 .idea
 .pytest_cache
 classmemo.egg-info
+dist
+build
 *.pyc
